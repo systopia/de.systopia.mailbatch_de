@@ -9,7 +9,7 @@ theme:
 
 nav:
   - Startseite: index.md
-  - Grundlagen: basics.md
+  - Funktionen: features.md
   - Installation: installation.md
   - Anwendung: usage.md
 
