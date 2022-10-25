@@ -1,6 +1,6 @@
 site_name: Mailbatch
 repo_url: https://github.com/systopia/de.systopia.mailbatch
-edit_uri: https://github.com/systopia/de.systopia.mailbatch_de/-/edit/master
+edit_uri: https://github.com/systopia/de.systopia.mailbatch_de/tree/master/docs
 site_description: 'Eine Anleitung für die Mailbatch-Erweiterung.'
 site_author: 'SYSTOPIA'
 theme:
