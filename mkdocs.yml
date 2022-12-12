@@ -8,9 +8,7 @@ theme:
     material
 
 nav:
-  - Startseite: index.md
-  - Funktionen: features.md
-  - Installation: installation.md
+  - Einleitung: index.md
   - Anwendung: usage.md
 
 markdown_extensions:
