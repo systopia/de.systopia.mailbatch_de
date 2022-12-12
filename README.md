@@ -1,4 +1,4 @@
-# CiviCRM Erweiterung MailBatch (de.systopia.mailbatch)
+# CiviCRM Erweiterung MailBatch (`de.systopia.mailbatch`)
 
 ## Was ist MailBatch?
 
